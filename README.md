@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin Hu(@KevinHooah)!
-- 👀 I’m interested in deep learning and IoT systems.
-- 🌱 I’m currently working as a Ph.D. student at UC Merced PANS Lab.
-- 💞️ I’m looking to collaborate on research problems related to deep learning in IoT systems. (Seriously!)
+- 👀 I’m interested in multimodal deep learning.
+- 🌱 I’m currently working as a Ph.D. candidate at UC Merced PANS Lab.
+- 💞️ I’m open to collaborating on research problems related to multimodal learning and foundation models.
 - 📫 If you are interested, feel free to shoot an email to work [DOT] kevinhu [AT] gmail [DOT] com
 
 <!---
